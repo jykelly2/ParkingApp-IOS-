@@ -30,7 +30,7 @@
 - When you click on "Remember me", the app will remember the last user signed in even after the
 app is closed and would populate the text field automatically
 <div>
-<img src="https://github.com/jykelly2/ParkingApp-IOS-/blob/master/Picture1.png" height="500" width="250"alt="The Sign in page">
+<img src="https://github.com/jykelly2/ParkingApp-IOS-/blob/master/Picture1.png" height="650" width="300"alt="The Sign in page">
 <div>
 
 ***
